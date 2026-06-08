@@ -1,21 +1,31 @@
 # Retail Order & Inventory Management System
+**Enterprise-Grade E-Commerce Database Solution**
 
-## Overview
-SQL Server database project for managing customers, products, suppliers, inventory and orders.
+Comprehensive SQL Server database system with professional schema design, 10 stored procedures, 
+11 reporting views, and advanced analytics.
 
-## Tools Used
-- SQL Server
-- DBeaver
-- Docker
+## 🎯 Key Features
+✅ 9 Normalized Tables with Referential Integrity
+✅ 14 Strategic Indexes for Performance Optimization
+✅ 10 Stored Procedures with Error Handling
+✅ 11 Pre-built Reporting Views
+✅ 10+ Advanced Queries (CTEs, Window Functions)
+✅ RFM Customer Segmentation
+✅ Real-time Inventory Tracking
+✅ Order Fulfillment Analytics
 
-## Features
-- Customer Management
-- Product Management
-- Inventory Tracking
-- Order Processing
-- Sales Reporting
+## 📊 What's Included
+- Schema design with constraints
+- 8 customers with realistic data
+- 12 products across 5 categories
+- 8 complete orders with items
+- Advanced business analytics
+- Performance optimization strategies
 
-## Reports
-- Customer Orders Report
-- Product Sales Analysis
-- Order Tracking
+## 🔧 SQL Concepts Demonstrated
+- Normalization (3NF)
+- Window Functions & CTEs
+- Stored Procedures with Transactions
+- Error Handling (TRY/CATCH)
+- Indexes for Performance
+- Views for Reporting
